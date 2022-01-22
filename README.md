@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @onakoyakayode
-- 👀 I’m interested in becoming a Software Developer
-- 🌱 I’m currently learning Frontend Web development
+- 👋 Hi, I’m Onakoya Kayode
+- 👀 I’m a Frontend Engineer, looking forward to become a Full Stack Developer
+- 🌱 I’ve Test projects in my portfolio
 - 💞️ I’m looking to collaborate on more projects
 - 📫 You can reach me via my email => onakoyakayode@gmail.com
 
